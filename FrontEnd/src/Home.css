@@ -1,0 +1,16 @@
+.root{
+    flex-grow: 1;
+    width: 100%;
+    background-color: white;
+}
+
+.tabs{
+    padding-left: 10;
+    padding-right: 10;
+}
+
+.tab{
+    font-size: min('10px', '2vw');
+    color: 'white';
+    font-weight: 'bold';
+}
