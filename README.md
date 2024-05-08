@@ -34,7 +34,7 @@ We had a brainstorm and discussed for a long time to produce our user stories to
      - Our system surpasses typical recommendation engines by offering multiple methods of product suggestion. It can automatically suggest products, respond to specific requests (like choosing a birthday gift), and allow admins to target potential users directly, enhancing overall system efficiency.
 
 
-### Final Website - A Skim Look
+### Reference Images
 
 1. Admin view orders/products
 ![Admin view](src/admin_1.png)
