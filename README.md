@@ -9,20 +9,22 @@
 - In agile development, user stories and acceptance criteria are the smallest work units, each reflecting project goals. 
 - **We ensure these goals are met by providing functional solutions that satisfy user needs**.
 
+### System Architecture 
+![system architecture](src/sys.png)
 
 #### User stories 
 We had a brainstorm and discussed for a long time to produce our user stories to make them accurate and complete, which ensures that our user story not only satisfies all the basic requirements described in the project description, but also contains several distinct features which will provide special novel functionality to our website. 
 
 1. **basic project objectives** need to be examined. Here are all the normal project objectives: 
-   - Admin can add products with their details such as product name, description, features, warranty, and delivery date. 
-   - Admin can also view and edit products information whenever required.	 
-   - Admin can view all order details and can also view the sales of the products.  
-   - Users need to register with basic registration details to generate a valid username and password. 
-   - After login, users can view all the recommended products on the homepage.   
-   - Users can select the desired product and view its details and add it to the shopping cart if he/she - wishes to buy it.   
-   - Users can also ask queries to a chatbot regarding any product details and the chatbot will return the query result in form of text to speech. 	 
+   - Admin can *add products* with their details such as product name, description, features, warranty, and delivery date. 
+   - Admin can also *view and edit products information* whenever required.	 
+   - Admin can view *all order details* and can also view the sales of the products.  
+   - Users need to *register* with basic registration details to generate a valid username and password. 
+   - After login, users can view all the *recommended* products on the homepage.   
+   - Users can *select the desired product and view its details* and add it to the shopping cart if he/she wishes to buy it.   
+   - Users can also ask queries to a *chatbot* regarding any product details and the chatbot will return the query result in form of text to speech. 	 
    - Users can do payment online. 
-   - Users can view their order history of their purchased products. 
+   - Users can view their *order history* of their purchased products. 
 2. All project objectives were met by specific user stories, with **additional innovative features** included:
    - *Internet Connection Issue Handling*: 
      - If there's an internet issue, the website will utilize local storage to display content and inform users of the disconnection, improving user experience during downtimes. 
@@ -32,5 +34,21 @@ We had a brainstorm and discussed for a long time to produce our user stories to
      - Our system surpasses typical recommendation engines by offering multiple methods of product suggestion. It can automatically suggest products, respond to specific requests (like choosing a birthday gift), and allow admins to target potential users directly, enhancing overall system efficiency.
 
 
-### System Architecture 
-![system architecture](src/sys.png)
+### Final Website - A Skim Look
+
+1. Admin view orders/products
+![Admin view](src/admin_1.png)
+![Admin view](src/admin_2.png)
+
+2. User is able to register, login, see the order history and so on.
+![user order](src/user_order.png)
+
+3. User is able to search using keywords
+![user search](src/user_search.png)
+
+4. User can see the recommendation products.
+![user recommendation](src/user_recommendation.png)
+
+5. Chatrobot, Ad information 
+![user chatbot](src/user_chatbot.png)
+![user ad](src/user_ad.png)
