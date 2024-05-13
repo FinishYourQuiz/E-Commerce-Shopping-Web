@@ -1,4 +1,4 @@
-## The is a project for meeting the requriement of COMP3900 2021, a course at University of New South Wales (UNSW)
+## The is a project for meeting the requriement of COMP3900, at University of New South Wales (UNSW)
 ### Memeber:  Stella Yang, Ziqian Cao, Fa Liu, YiWei Li, and Zoe Li
 ### About: E-Commerce Shopping Website
 
